@@ -1,0 +1,16 @@
+{
+  "priority": 10,
+  "request": {
+    "method": "GET",
+    "url": "/test"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {
+      "foo": "bar"
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
